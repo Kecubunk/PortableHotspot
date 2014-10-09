@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PortableHotspot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="security">Please select Security type</string>
+    <string-array name="sec_type">Security Type
+    <item>WPA</item>
+    <item>WPA2</item>
+    <item>None</item>
+    </string-array>
+
+</resources>
